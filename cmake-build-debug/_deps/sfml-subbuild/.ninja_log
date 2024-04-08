@@ -1,0 +1,21 @@
+# ninja log v5
+0	23	1712537656203392348	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	63a220a8ce6df334
+0	23	1712537656203392348	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-mkdir	63a220a8ce6df334
+23	8298	1712537664479144582	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	f228ad4d32ab970a
+23	8298	1712537664479144582	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-download	f228ad4d32ab970a
+8298	8936	0	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	453155892c5138a7
+8298	8936	0	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-update	453155892c5138a7
+8936	8951	1712537665132339698	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	34d9b68f155cb881
+8936	8951	1712537665132339698	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-patch	34d9b68f155cb881
+8951	8967	1712537665148095435	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	5298609b1473d242
+8951	8967	1712537665148095435	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-configure	5298609b1473d242
+8967	8982	1712537665163075170	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	23bc1beb6c3d575e
+8967	8982	1712537665163075170	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-build	23bc1beb6c3d575e
+8982	8997	1712537665177923121	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	c3106ca640f11048
+8982	8997	1712537665177923121	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-install	c3106ca640f11048
+8997	9012	1712537665193224506	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f65c1d383751cb63
+8997	9012	1712537665193224506	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-test	f65c1d383751cb63
+9012	9033	1712537665214216143	CMakeFiles/sfml-populate-complete	b6fb8acfe6610085
+9012	9033	1712537665214216143	sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	b6fb8acfe6610085
+9012	9033	1712537665214216143	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/CMakeFiles/sfml-populate-complete	b6fb8acfe6610085
+9012	9033	1712537665214216143	/Users/andrewratzlaff/Documents/GitHub/cmake-sfml-project/cmake-build-debug/_deps/sfml-subbuild/sfml-populate-prefix/src/sfml-populate-stamp/sfml-populate-done	b6fb8acfe6610085
